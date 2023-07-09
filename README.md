@@ -9,9 +9,9 @@ retriving data using openai api
 
 * npm install modules
 
-#To start frontend
+#To start frontend-
 npm run start:frontend
 
 
-#To start backend
+#To start backend-
 npm run start:backend
